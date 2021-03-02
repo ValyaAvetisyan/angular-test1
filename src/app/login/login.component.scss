@@ -1,0 +1,58 @@
+p {
+  font-family: Lato;
+}
+
+.example-card {
+  max-width: 500px;
+  margin: 4px
+}
+
+mat-card-subtitle {
+  font-size: 30px
+}
+
+mat-card-title {
+  color: green;
+  font-size: 40px
+}
+
+.example-icon {
+  padding: 0 14px;
+}
+
+.example-spacer {
+  flex: 1 1 auto;
+}
+
+.example-card {
+  max-width: 400px;
+  width: 75%;
+  margin: 10px auto;
+}
+
+.example-header-image {
+  background-size: cover;
+}
+
+.main-div {
+  height: 50vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.example-full-width {
+  width: 100%;
+}
+
+.input-style {
+  border: yellow;
+  width: 13em;
+  height: 2em;
+  background: yellowgreen;
+}
+
+.invalid-user-div {
+  color: darkred;
+  margin-bottom: 1em;
+}
